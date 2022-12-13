@@ -9,7 +9,7 @@ public class First {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("First Java Application OMER DOGU ");
+		System.out.println("First Java Application OMER DOGU KARABUK UNIVERSITESI C.E.	");
 	}
 
 }
